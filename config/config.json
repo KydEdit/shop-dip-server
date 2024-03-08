@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "freedb_vladKYD",
+    "password": "DM%Gb2XnET?%PW$",
+    "database": "freedb_shop_diplom",
+    "host": "sql.freedb.tech",
+    "dialect": "mysql",
+    "port": 3306
+  },
+  "test": {
+    "username": "freedb_vladKYD",
+    "password": "DM%Gb2XnET?%PW$",
+    "database": "freedb_shop_diplom",
+    "host": "sql.freedb.tech",
+    "dialect": "mysql",
+    "port": 3306
+  },
+  "production": {
+    "username": "freedb_vladKYD",
+    "password": "DM%Gb2XnET?%PW$",
+    "database": "freedb_shop_diplom",
+    "host": "sql.freedb.tech",
+    "dialect": "mysql",
+    "port": 3306
+  }
+}
